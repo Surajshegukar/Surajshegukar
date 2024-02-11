@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Web Developer
 ------------------------
 
-I've been learning coding for 4 years and Proficient in Programming Language like C & C++ , Python , JavaScript and it's Framework like ReactJs, Express JS and Node JS also I have good understanding of Databases like MySQL and MongoDB.
+"I've been coding for 4 years and I'm good at C, C++, Python, and JavaScript. I also know frameworks like ReactJS, Express JS, and Node JS. I understand databases like MySQL and MongoDB too."
 
-* 🌍  I'm based in Pune, Maharashtra.
+* 🌍  I'm live in Pune, Maharashtra.
 * ✉️  You can contact me at [surajshegukar2732@gmail.com](mailto:surajshegukar2732@gmail.com)
 * 🧠  I'm learning Data Science and Machine Learning.
 * 🤝  I'm open to collaborating on Web Development, Python and ML Projects.
